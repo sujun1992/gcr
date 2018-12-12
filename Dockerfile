@@ -1,1 +1,1 @@
-FROM nexus3.onap.org:10001/onap/vfc/vnflcm:1.2.1
+FROM nexus3.onap.org:10001/onap/sdnc-image:1.4.3
