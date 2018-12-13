@@ -1,1 +1,1 @@
-FROM nexus3.onap.org:10001/onap/sdnc-image:1.4.3
+FROM nexus3.onap.org:10001/onap/ccsdk-ansible-server-image:0.3.2
