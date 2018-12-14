@@ -1,1 +1,1 @@
-FROM nexus3.onap.org:10001/onap/ccsdk-ansible-server-image:0.3.2
+FROM pndareg.ctao6.net/onap/org.onap.dcaegen2.deployments.pnda-mirror-container:5.0.0
