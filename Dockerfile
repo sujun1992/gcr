@@ -1,1 +1,1 @@
-FROM nexus3.onap.org:10001/onap/ccsdk-ansible-server-image:0.3.2
+FROM nexus3.onap.org:10001/onap/sdc-cassandra-init:1.3.6
